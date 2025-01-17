@@ -1,4 +1,4 @@
-# Plant_Disease_Detection_System
+# Plant_Disease_Detection_System_for_Sustainable_Agriculture
 
 This project is a machine learning-based web application designed to identify plant diseases using image classification. The system supports sustainable agriculture by enabling early detection and diagnosis of plant diseases, thus helping to optimize crop health and yield.
 
